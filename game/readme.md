@@ -55,7 +55,7 @@ Follow these commands to set up the project on your local machine.
 <img src="images/load.png">
 *Loading screen*
 
-<img src="images/game.png">
+<img src="images/Screenshot 2024-11-02 233000.png">
 *Game play*
 
 <img src="images/gameover.png">
