@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# Seat & Swap 🎯
+# Runner 🎯
 
 
 ## Basic Details
@@ -52,13 +52,13 @@ Follow these commands to set up the project on your local machine.
 
 
 # Screenshots (Add at least 3)
-<img src="images/load.png>
+<img src="images/load.png">
 *Loading screen*
 
-<img src="images/game.png>
+<img src="images/game.png">
 *Game play*
 
-<img src="images/gameover.png>
+<img src="images/gameover.png">
 *Game over screen*
 
 
