@@ -48,6 +48,8 @@ For Software:
 2. Backend:
     - python manage.py migrate
     - python manage.py runserver
+    - To create user: python manage.py createsuperuser
+    - for migrations: python manage.py makemigrations,python manage.py migrate
 
 ### Project Documentation
 For Software:
