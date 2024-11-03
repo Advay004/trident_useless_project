@@ -44,7 +44,7 @@ For Software:
 
 # Run
 1. Start the frontend:
-    npm start
+    npm run dev
 2. Backend:
     - python manage.py migrate
     - python manage.py runserver
@@ -100,8 +100,8 @@ Student Page with the student details , Add new Student option and Add new group
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://youtu.be/wBi9fVntOII
+Admin login and functionality, also user web experience
 
 # Additional Demos
 [Add any extra demo materials/links]
